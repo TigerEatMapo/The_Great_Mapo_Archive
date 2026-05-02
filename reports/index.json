@@ -1,0 +1,30 @@
+{
+  "colorPalette": "teal-ocean",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260501-211418-5khf",
+      "title": "Mamasontwo, Mapo The Menace",
+      "commanders": [
+        "Mamasontwo",
+        "Mapo The Menace"
+      ],
+      "dateStart": "2026-05-02T02:14:18.000Z",
+      "dateEnd": "2026-05-02T03:38:38.000Z",
+      "dateLabel": "5/1/2026, 9:14:18 PM - 5/1/2026, 10:38:38 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260501-211418-5khf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 41
+      }
+    }
+  ]
+}
