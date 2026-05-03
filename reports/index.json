@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-115845-pg22",
+      "title": "Magician Of Drascir",
+      "commanders": [
+        "Magician Of Drascir"
+      ],
+      "dateStart": "2026-05-02T16:58:45.000Z",
+      "dateEnd": "2026-05-02T17:21:13.000Z",
+      "dateLabel": "5/2/2026, 11:58:45 AM - 5/2/2026, 12:21:13 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260502-115845-pg22",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260501-211418-5khf",
       "title": "Mamasontwo, Mapo The Menace",
       "commanders": [
