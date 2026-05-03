@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-221416-8miz",
+      "title": "Omeluz",
+      "commanders": [
+        "Omeluz"
+      ],
+      "dateStart": "2026-05-03T03:14:16.000Z",
+      "dateEnd": "2026-05-03T03:52:33.000Z",
+      "dateLabel": "5/2/2026, 10:14:16 PM - 5/2/2026, 10:52:33 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260502-221416-8miz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260502-115845-pg22",
       "title": "Magician Of Drascir",
       "commanders": [
