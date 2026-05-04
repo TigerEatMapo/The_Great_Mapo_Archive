@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260504-171626-vs31",
+      "title": "Rose Of Aeons",
+      "commanders": [
+        "Rose Of Aeons"
+      ],
+      "dateStart": "2026-05-04T22:16:26.000Z",
+      "dateEnd": "2026-05-04T23:13:57.000Z",
+      "dateLabel": "5/4/2026, 5:16:26 PM - 5/4/2026, 6:13:57 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260504-171626-vs31",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260503-201842-mpzn",
       "title": "B U B B L E C A R, Penguinz Is Chilly",
       "commanders": [
