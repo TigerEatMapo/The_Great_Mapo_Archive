@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260505-141436-rug2",
+      "title": "Magician Of Drascir",
+      "commanders": [
+        "Magician Of Drascir"
+      ],
+      "dateStart": "2026-05-05T19:14:36.000Z",
+      "dateEnd": "2026-05-05T19:33:18.000Z",
+      "dateLabel": "5/5/2026, 2:14:36 PM - 5/5/2026, 2:33:18 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260505-141436-rug2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260504-171626-vs31",
       "title": "Rose Of Aeons",
       "commanders": [
