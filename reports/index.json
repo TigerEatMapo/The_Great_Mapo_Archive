@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260505-204928-v8cz",
+      "title": "Shae Pell Shimmer, Tigereatmapo",
+      "commanders": [
+        "Shae Pell Shimmer",
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-05-06T01:49:28.000Z",
+      "dateEnd": "2026-05-06T02:43:00.000Z",
+      "dateLabel": "5/5/2026, 8:49:28 PM - 5/5/2026, 9:43:00 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260505-204928-v8cz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260505-141436-rug2",
       "title": "Magician Of Drascir",
       "commanders": [
