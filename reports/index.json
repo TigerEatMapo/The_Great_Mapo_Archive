@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260508-214620-zjuo",
+      "title": "Jade Hunteress, Rose Of Aeons",
+      "commanders": [
+        "Jade Hunteress",
+        "Rose Of Aeons"
+      ],
+      "dateStart": "2026-05-09T02:46:20.000Z",
+      "dateEnd": "2026-05-09T03:59:21.000Z",
+      "dateLabel": "5/8/2026, 9:46:20 PM - 5/8/2026, 10:59:21 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260508-214620-zjuo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260505-204928-v8cz",
       "title": "Shae Pell Shimmer, Tigereatmapo",
       "commanders": [
