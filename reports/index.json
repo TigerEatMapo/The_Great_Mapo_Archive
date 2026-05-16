@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-210612-pimp",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-05-16T02:06:12.000Z",
+      "dateEnd": "2026-05-16T02:52:00.000Z",
+      "dateLabel": "5/15/2026, 9:06:12 PM - 5/15/2026, 9:52:00 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260515-210612-pimp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260515-163547-h91n",
       "title": "Tigereatmapo",
       "commanders": [
