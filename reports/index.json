@@ -1,7 +1,31 @@
 {
   "colorPalette": "teal-ocean",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260515-163547-h91n",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-05-15T21:35:47.000Z",
+      "dateEnd": "2026-05-15T22:06:56.000Z",
+      "dateLabel": "5/15/2026, 4:35:47 PM - 5/15/2026, 5:06:56 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260515-163547-h91n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20260510-203245-nfr6",
       "title": "Dxshka Vol",
