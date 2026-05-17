@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-193706-fjfl",
+      "title": "Mamasontwo, Spruce Sitka, Twofirefries",
+      "commanders": [
+        "Mamasontwo",
+        "Spruce Sitka",
+        "Twofirefries"
+      ],
+      "dateStart": "2026-05-17T00:37:06.000Z",
+      "dateEnd": "2026-05-17T02:09:07.000Z",
+      "dateLabel": "5/16/2026, 7:37:06 PM - 5/16/2026, 9:09:07 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260516-193706-fjfl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260516-104224-7q15",
       "title": "Tigereatmapo",
       "commanders": [
