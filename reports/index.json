@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-150146-kyye",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-06-04T20:01:46.000Z",
+      "dateEnd": "2026-06-04T20:37:02.000Z",
+      "dateLabel": "6/4/2026, 3:01:46 PM - 6/4/2026, 3:37:02 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260604-150146-kyye",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260603-202538-5cbv",
       "title": "Mamasontwo",
       "commanders": [
