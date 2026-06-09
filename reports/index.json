@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-204554-95ai",
+      "title": "Mamasonthree",
+      "commanders": [
+        "Mamasonthree"
+      ],
+      "dateStart": "2026-06-09T01:45:54.000Z",
+      "dateEnd": "2026-06-09T02:37:20.000Z",
+      "dateLabel": "6/8/2026, 8:45:54 PM - 6/8/2026, 9:37:20 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260608-204554-95ai",
+      "summary": {
+        "borderlandsPct": 0.5609756097560976,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260604-150146-kyye",
       "title": "Tigereatmapo",
       "commanders": [
