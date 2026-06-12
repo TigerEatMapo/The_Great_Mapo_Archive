@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-222316-wr8r",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-06-12T03:23:16.000Z",
+      "dateEnd": "2026-06-12T03:36:36.000Z",
+      "dateLabel": "6/11/2026, 10:23:16 PM - 6/11/2026, 10:36:36 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260611-222316-wr8r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260611-161323-qkx7",
       "title": "Tigereatmapo",
       "commanders": [
