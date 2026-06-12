@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-115139-ttgd",
+      "title": "Tiger Eat Mapo Tofu, Tigereatmapo",
+      "commanders": [
+        "Tiger Eat Mapo Tofu",
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-06-12T16:51:39.000Z",
+      "dateEnd": "2026-06-12T17:45:04.000Z",
+      "dateLabel": "6/12/2026, 11:51:39 AM - 6/12/2026, 12:45:04 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260612-115139-ttgd",
+      "summary": {
+        "borderlandsPct": 0.06976744186046512,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260611-222316-wr8r",
       "title": "Tigereatmapo",
       "commanders": [
