@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-202918-9344",
+      "title": "Mamasonthree",
+      "commanders": [
+        "Mamasonthree"
+      ],
+      "dateStart": "2026-06-18T01:29:18.000Z",
+      "dateEnd": "2026-06-18T03:42:05.000Z",
+      "dateLabel": "6/17/2026, 8:29:18 PM - 6/17/2026, 10:42:05 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260617-202918-9344",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260612-115139-ttgd",
       "title": "Tiger Eat Mapo Tofu, Tigereatmapo",
       "commanders": [
