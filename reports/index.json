@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-203428-ai5m",
+      "title": "Mamasonthree, Mamasontwo",
+      "commanders": [
+        "Mamasonthree",
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-06-23T01:34:28.000Z",
+      "dateEnd": "2026-06-23T02:47:19.000Z",
+      "dateLabel": "6/22/2026, 8:34:28 PM - 6/22/2026, 9:47:19 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260622-203428-ai5m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 29,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260621-202644-rs9r",
       "title": "Stashpew",
       "commanders": [
