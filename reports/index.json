@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-210933-ob9i",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-07-04T02:09:33.000Z",
+      "dateEnd": "2026-07-04T03:39:33.000Z",
+      "dateLabel": "7/3/2026, 9:09:33 PM - 7/3/2026, 10:39:33 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260703-210933-ob9i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260624-202756-grmr",
       "title": "Mamasontwo",
       "commanders": [
