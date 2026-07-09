@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-190731-1hyd",
+      "title": "Papa Akram, Valencious Et Moria",
+      "commanders": [
+        "Papa Akram",
+        "Valencious Et Moria"
+      ],
+      "dateStart": "2026-07-09T00:07:31.000Z",
+      "dateEnd": "2026-07-09T01:58:57.000Z",
+      "dateLabel": "7/8/2026, 7:07:31 PM - 7/8/2026, 8:58:57 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260708-190731-1hyd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260703-210933-ob9i",
       "title": "Lumpia Humner",
       "commanders": [
