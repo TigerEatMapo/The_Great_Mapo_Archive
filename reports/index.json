@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-134612-l6me",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-07-10T18:46:12.000Z",
+      "dateEnd": "2026-07-10T22:05:53.000Z",
+      "dateLabel": "7/10/2026, 1:46:12 PM - 7/10/2026, 5:05:53 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20260710-134612-l6me",
+      "summary": {
+        "borderlandsPct": 0.022222222222222223,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260708-190731-1hyd",
       "title": "Papa Akram, Valencious Et Moria",
       "commanders": [
