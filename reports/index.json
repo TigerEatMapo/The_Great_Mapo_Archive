@@ -1,8 +1,52 @@
 {
   "colorPalette": "teal-ocean",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-200805-ssr5",
+      "title": "Mamasöntwo",
+      "commanders": [
+        "Mamasöntwo"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-07T01:08:05.000Z",
+      "dateEnd": "2026-10-07T03:25:29.258Z",
+      "dateLabel": "10/6/2026, 8:08:05 PM - 10/6/2026, 10:25:29 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20261006-200805-ssr5",
+      "publishedBy": "TigerEatMapo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 14
+      }
+    },
     {
       "id": "20260711-193452-mfzl",
       "title": "Virtuous Claps",
