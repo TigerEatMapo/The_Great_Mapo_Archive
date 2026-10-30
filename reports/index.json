@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261030-140959-xfqk",
+      "title": "Mamasöntwo, Tigereatmapo",
+      "commanders": [
+        "Mamasöntwo",
+        "Tigereatmapo"
+      ],
+      "guild": {
+        "id": "84546491-1091-F011-8465-02315AB41281",
+        "name": "Hardcore Havok",
+        "tag": "GvG"
+      },
+      "dateStart": "2026-10-30T19:09:59.000Z",
+      "dateEnd": "2026-10-30T21:06:28.975Z",
+      "dateLabel": "10/30/2026, 2:09:59 PM - 10/30/2026, 4:06:28 PM",
+      "url": "https://TigerEatMapo.github.io/The_Great_Mapo_Archive/?report=20261030-140959-xfqk",
+      "publishedBy": "TigerEatMapo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261026-143258-9924",
       "title": "Findard Silverclaw",
